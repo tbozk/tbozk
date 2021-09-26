@@ -1,0 +1,2 @@
+- My name is Tuna Bozkurt.
+- I'm a freshman at Bilkent University studying Computer Science.
